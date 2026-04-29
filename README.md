@@ -22,4 +22,3 @@ PHP + MySQL based hostel management project.
 
 ## Login
 Change default admin password after setup.
-screenshots/
