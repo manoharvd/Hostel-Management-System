@@ -7,6 +7,7 @@ PHP + MySQL based hostel management project.
 <img width="1920" height="1080" alt="Screenshot 2026-04-29 165341" src="https://github.com/user-attachments/assets/4bf62db4-b51a-40db-bf35-8e96bbcea894" />
 <img width="1881" height="904" alt="Screenshot 2026-04-29 165357" src="https://github.com/user-attachments/assets/cec297c0-5e3f-4d56-9b1f-70a7301408a6" />
 <img width="1872" height="909" alt="Screenshot 2026-04-29 165507" src="https://github.com/user-attachments/assets/b34fa6df-058f-4015-9b9e-cad99a1a969d" />
+
 ## Features
 - Student Registration
 - Room Booking
